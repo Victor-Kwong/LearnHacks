@@ -1,0 +1,7 @@
+secret-key.txt
+.idea
+private_data
+__pycache__
+.DS_Store
+src/session/*
+src/logs/*
