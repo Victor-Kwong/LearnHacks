@@ -1,4 +1,4 @@
-from setup import app, socket_app, server
+from setup import app, server
 from controllers.general_controller import general_blueprint
 
 app.register_blueprint(general_blueprint)
